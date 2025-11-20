@@ -10,6 +10,7 @@ Proyecto de testing automatizado E2E con Playwright + Python para validar mi por
 
 **URL del proyecto**: https://portafolio-rosafg.netlify.app/
 
+
 ![Home Screenshot](./screenshots/02_home_viewport_20251120_001448.png)
 
 ---
